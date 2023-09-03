@@ -1,1 +1,1 @@
-# Optimizing-Algozz
+# Optimizing-Algorithm
